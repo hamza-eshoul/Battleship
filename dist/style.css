@@ -1,0 +1,106 @@
+.cube {
+  border: 1px solid black;
+  width: 34px;
+  height: 34px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.myButtons.none {
+  display: none;
+}
+.cube img {
+  width: 100%;
+  height: 100%;
+}
+
+.cube.not-allowed {
+  cursor: not-allowed;
+}
+
+.cube.no-pointer {
+  pointer-events: none;
+}
+
+.cube.no-pointer-switch {
+  pointer-events: none;
+}
+
+.cube:hover {
+  background-color: warning;
+}
+
+.d-flex {
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.container {
+  width: 400px;
+  margin: 0px;
+}
+
+.bg-warning {
+  opacity: 0.9;
+}
+
+.btn-warning {
+  border: 2px solid black;
+}
+
+.btn-danger.no-point {
+  pointer-events: none;
+}
+
+.myModal {
+  display: none;
+  position: fixed;
+  z-index: 10;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.94);
+}
+
+.my-modal-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 2rem;
+  color: rgb(255, 255, 255);
+  margin: 20% auto;
+  padding: 20px;
+  width: 50%;
+  height: 40%;
+  font-family: "Cinzel Decorative", cursive;
+  animation-name: modalopen;
+  animation-duration: 3s;
+}
+
+.myBtn {
+  padding: 1rem 3rem;
+}
+
+.my-modal-content h1,
+.my-modal-content button {
+  font-size: 4.5rem;
+}
+
+.bg-successe {
+  background-color: rgba(60, 179, 113, 0);
+}
+
+@keyframes modalopen {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
