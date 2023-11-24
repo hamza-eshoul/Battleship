@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skynter/Battleship-Project.git"
+    "url": "git+https://github.com/hamza-eshoul/Battleship.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skynter/Battleship-Project/issues"
+    "url": "https://github.com/hamza-eshoul/Battleship/issues"
   },
-  "homepage": "https://github.com/skynter/Battleship-Project#readme",
+  "homepage": "https://github.com/hamza-eshoul/Battleship#readme",
   "devDependencies": {
     "@babel/core": "^7.20.7",
     "@babel/preset-env": "^7.20.2",
