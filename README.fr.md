@@ -12,15 +12,15 @@ L'objectif du projet est de mettre en pratique les fondamentaux de JavaScript ai
 
 ## Page d'accueil
 
-![Homepage Screenshot](/screenshots//Homepage.png)
+![Homepage Screenshot](/screenshots/Homepage.png)
 
 ## Interface de jeu
 
-![Game Interface Screenshot](/screenshots//Game-interface.png)
+![Game Interface Screenshot](/screenshots/Game-Interface.png)
 
 ## Feedback du jeu
 
-![Game Feedback Screenshot](/screenshots//Game-feedback.png)
+![Game Feedback Screenshot](/screenshots//Game-Feedback.png)
 
 ## Technologies Utilisées
 

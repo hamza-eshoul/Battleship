@@ -16,11 +16,11 @@ The goal of the project was to practice JavaScript fundamentals as well as the t
 
 ## Game Interface
 
-![Game Interface Screenshot](/screenshots//Game-interface.png)
+![Game Interface Screenshot](/screenshots/Game-Interface.png)
 
 ## Game Feedback
 
-![Game Feedback Screenshot](/screenshots/Game-feedback.png)
+![Game Feedback Screenshot](/screenshots/Game-Feedback.png)
 
 ## Technologies Used
 
